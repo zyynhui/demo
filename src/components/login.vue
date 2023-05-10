@@ -2,36 +2,7 @@
 
   <div class="public">
     <!-- <img src="../image/Bitmap.jpg"> -->
-    <div class="formContainer">
-      <el-form
-        :label-position="labelPosition"
-        label-width="80px"
-        :model="formLabelAlign"
-      >
-        <span>用户名</span>
-        <el-input
-          placeholder="请输入"
-          v-model="formLabelAlign.name"
-          class="pub one"
-        ></el-input>
-        <span>密码</span>
-        <el-input
-          placeholder="请输入"
-          type="password"
-          v-model="formLabelAlign.pwd"
-          class="pub two"
-        ></el-input>
-        <el-button
-          type="primary"
-          @click="submitData"
-          class="btn"
-        >登录</el-button>
-      </el-form>
-      <span
-        v-show="isShow"
-        class="error"
-      >{{ msg }}</span>
-    </div>
+
     11
     22
     33
