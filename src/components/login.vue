@@ -2,10 +2,10 @@
 
   <div class="public">
     <!-- <img src="../image/Bitmap.jpg"> -->
-
     11
     22
     33
+    44
   </div>
 </template>
 <script>
