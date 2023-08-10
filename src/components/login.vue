@@ -4,8 +4,9 @@
     <!-- <img src="../image/Bitmap.jpg"> -->
     哈哈
     <div>
-      <el-button type="primary">普通</el-button>
+      <el-button type="primary">普通22</el-button>
     </div>
+    23
   </div>
 </template>
 <script>
