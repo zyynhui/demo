@@ -3,6 +3,9 @@
   <div class="public">
     <!-- <img src="../image/Bitmap.jpg"> -->
     哈哈
+    <div>
+      <el-button type="primary">普通</el-button>
+    </div>
   </div>
 </template>
 <script>
