@@ -2,10 +2,7 @@
 
   <div class="public">
     <!-- <img src="../image/Bitmap.jpg"> -->
-    11
-    22
-    33
-    44
+    哈哈
   </div>
 </template>
 <script>
